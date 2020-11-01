@@ -1,0 +1,29 @@
+{
+  "name": "test-coverage",
+  "version": "1.0.0",
+  "description": "As a developer many of your projects probably has tests, but do you ask yourself how much of your code is executed when the tests are ran?! :thinking:",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rawan96/test-coverage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rawan96/test-coverage/issues"
+  },
+  "homepage": "https://github.com/Rawan96/test-coverage#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^8.2.0",
+    "nyc": "^15.1.0"
+  }
+}
