@@ -14,9 +14,6 @@ So if you have code of 1000 lines and you make tests and 600 line where executed
 
 * Identify untested area.
 * It can assure the quality of the test.
-* Prevent Defect early.
-* Time, scope and cost can be kept under control.
-* You can find broken code.
 * You won't break your code as easily while refactoring.
 
 
